@@ -3,6 +3,7 @@ name: David Scott
 given_name: David
 family_name: Scott
 birth_date: 1945-06-27
+death_date: 2026-06-03
 gender: Male
 email: https://davidscott.house.gov/contact/contactform.htm
 image: https://unitedstates.github.io/images/congress/450x550/S001157.jpg
@@ -11,6 +12,7 @@ party:
 roles:
 - start_date: 2003-01-03
   end_date: 2026-06-03
+  end_reason: Deceased
   type: lower
   jurisdiction: ocd-jurisdiction/country:us/government
   district: GA-13
